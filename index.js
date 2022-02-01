@@ -1,2 +1,2 @@
-const reverse_number = require("./reverse-number");
-module.exports = reverse_number;
+const reverse_array_number = require("./reverse-number");
+module.exports = reverse_array_number;
