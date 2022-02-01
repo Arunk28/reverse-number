@@ -6,9 +6,13 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Arun",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^27.4.7"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arunk28/reverse-number"
+}
 }
