@@ -15,3 +15,6 @@ npm i reverse_array_number
 const reverseNumber = require("reverse_array_number");
 const number = reverseNumber([1, 2, 3, 4, 5]);
 ```
+
+# package
+https://www.npmjs.com/package/reverse_array_number
