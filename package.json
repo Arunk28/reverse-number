@@ -1,6 +1,6 @@
 {
   "name": "reverse_array_number",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/Arunk28/reverse-number"
 },
-"publishConfig": {
-  "registry":"https://npm.pkg.github.com"
-}
+"keywords": [
+   "reverse","reverse number","reverse array to number"
+]
 }
