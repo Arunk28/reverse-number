@@ -8,3 +8,9 @@ test("reverse the negative array", async () => {
     "-5 -4 -3 -2 -1"
   );
 });
+
+test("reverse the string array", async () => {
+  expect(
+    reverse_array_number(["ARUN", "MEGHA", "SABARISH", "LAKSHMI"])
+  ).toStrictEqual("LAKSHMI SABARISH MEGHA ARUN");
+});
